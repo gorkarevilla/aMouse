@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sensibilidad">Sensibilidad de Movimiento</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="opciones">Opciones</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="buscar">Buscar Dispositivos</string>
+    <string name="dispositivos">Dispositivos Bluetooth</string>
+    <string name="estado">Estado</string>
+    <string name="conectado">Conectado</string>
+    <string name="noconectado">Desconectado</string>
+    <string name="clickizq">Click Izquierdo</string>
+    <string name="clickder">Click Derecho</string>
+    <string name="configuracion">Configuracion</string>
+    <string name="mover">Mover</string>
+    <string name="conexion">Conexion</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="salir">Salir</string>
+    
+</resources>

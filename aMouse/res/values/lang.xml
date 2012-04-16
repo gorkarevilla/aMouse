@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sensibilidad">Moving Sensibility</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="opciones">Settings</string>
+    <string name="aceptar">OK</string>
+    <string name="cancelar">Cancel</string>
+    <string name="buscar">Search Devices</string>
+    <string name="dispositivos">Bluetooth Devices</string>
+    <string name="estado">Status</string>
+    <string name="conectado">Connected</string>
+    <string name="desconectado">Disconnected</string>
+    <string name="conectando">Connecting</string>
+    <string name="clickizq">Left Click</string>
+    <string name="clickder">Right Click</string>
+    <string name="configuracion">Configuration</string>
+    <string name="mover">Move</string>
+    <string name="movimientoActivado">Enabled Movement</string>
+    <string name="movimientoDesactivado">Disabled Movement</string>
+    <string name="conexion">Conection</string>
+    <string name="ayuda">Help</string>
+    <string name="salir">Exit</string>
+    
+    <string name="blueSeleccionarDisp">Select a device to connect</string>
+    <string name="blueDispConocidos">Known Devices</string>
+    <string name="blueDispDesconocidos">Unknown Devices</string>
+    <string name="blueNoDisp">Bluetooth is not avaiable!</string>
+    <string name="errorConexion">ERROR: Cannot Connect to that Device!</string>
+    
+    <string name="textoayuda">This app let you to use your devices like a mouse with your computer.\n You have to install the PC software and run this aplication.\nNote:  Your PC and device must have bluetooth.</string>
+    
+    
+</resources>

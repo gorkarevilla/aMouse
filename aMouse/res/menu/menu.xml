@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/opcionesmenu"
+        android:checkable="true"
+        android:checked="false"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu_chart"
+        android:menuCategory="system"
+        android:numericShortcut="1"
+        android:orderInCategory="1"
+        android:title="@string/opciones"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/ayudamenu"
+        android:checkable="true"
+        android:checked="true"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu_light"
+        android:menuCategory="system"
+        android:numericShortcut="2"
+        android:orderInCategory="2"
+        android:title="@string/ayuda"
+        android:visible="true">
+    </item>
+    <item
+        android:id="@+id/salirmenu"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu_stop"
+        android:menuCategory="system"
+        android:numericShortcut="3"
+        android:orderInCategory="3"
+        android:title="@string/salir"
+        android:visible="true">
+    </item>
+
+</menu>
