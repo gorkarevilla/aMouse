@@ -16,7 +16,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="ClienteBluetooth"></activity>
+        <activity android:name="com.gorkarevilla.amouse.ClienteBluetooth"></activity>
 
     </application>
 </manifest>

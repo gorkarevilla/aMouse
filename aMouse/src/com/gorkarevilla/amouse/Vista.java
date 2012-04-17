@@ -1,6 +1,9 @@
-package com.homelinux.ramuh76;
+package com.gorkarevilla.amouse;
 
 import java.util.List;
+
+import com.homelinux.ramuh76.R;
+
 import android.app.Dialog;
 import android.content.Context;
 import android.hardware.Sensor;

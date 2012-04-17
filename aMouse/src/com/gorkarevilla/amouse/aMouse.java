@@ -1,4 +1,6 @@
-package com.homelinux.ramuh76;
+package com.gorkarevilla.amouse;
+
+import com.homelinux.ramuh76.R;
 
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;

@@ -1,4 +1,4 @@
-package com.homelinux.ramuh76;
+package com.gorkarevilla.amouse;
 
 import java.util.ArrayList;
 import android.content.Context;
