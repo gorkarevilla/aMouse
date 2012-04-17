@@ -1,4 +1,4 @@
-package com.homelinux.ramuh76;
+package com.gorkarevilla.amousepc;
 
 
 import java.awt.AWTException;
