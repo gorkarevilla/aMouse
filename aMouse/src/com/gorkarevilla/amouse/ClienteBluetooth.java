@@ -192,6 +192,7 @@ public class ClienteBluetooth{
 	 * Busqueda de clientes Conocidos
 	 */
 	public ArrayList<String> getDispositivosConocidos(){
+		activarBluetooth();
 		if(D)Log.i(TAG, "Buscamos Clientes Conocidos");
 
 		_dispositivosConocidos.clear();
@@ -215,6 +216,7 @@ public class ClienteBluetooth{
 	 * Busqueda de clientes Nuevos
 	 */
 	public void buscarDispositivosDesconocidos() {
+		activarBluetooth();
 
 		if(D)Log.i(TAG, "Buscamos Clientes Nuevos");
 
@@ -256,6 +258,7 @@ public class ClienteBluetooth{
 	 * @param _dispCon
 	 */
 	public synchronized void conectar(String disp) {
+		activarBluetooth();
 		
 		_dispCon = _adaptadorBluetooth.getRemoteDevice(disp);
 		

@@ -1,9 +1,6 @@
 package com.gorkarevilla.amouse;
 
 import java.util.List;
-
-import com.homelinux.ramuh76.R;
-
 import android.app.Dialog;
 import android.content.Context;
 import android.hardware.Sensor;
@@ -219,6 +216,8 @@ public class Vista extends LinearLayout implements SensorEventListener{
 	public void mostrarOpciones() {
 		if(D)Log.i(TAG, "Mostrar Layout Opciones");
 
+		
+		
 		cargarDispositivosConocidos();
 		cargarDispositivosDesconocidos();
 
